@@ -10,6 +10,7 @@ package workflowgit;
  * @author danie
  */
 public class WorkFlowGIT {
+	
 
     /**
      * @param args the command line arguments
@@ -18,5 +19,7 @@ public class WorkFlowGIT {
         // TODO code application logic here
         // Adicion de la Feature numero 1 en la rama feature 1
     }
-    
+    public void methodFeature2(String pruebas){
+		// Implementacion metodo de feature 2
+    }
 }
